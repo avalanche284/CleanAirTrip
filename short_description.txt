@@ -1,0 +1,3 @@
+An air quality index (AQI) information is obtained by averaging readings from an air quality sensor, which can increase due to vehicle traffic, forest fires, or anything that can increase air pollution. Pollutants tested include ozone, nitrogen dioxide, sulphur dioxide, among others.
+Different countries have their own air quality indices, corresponding to different national air quality standards. In this application, The Common Air Quality Index (CAQI) is used.
+Source: Wikipedia

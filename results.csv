@@ -1,0 +1,23 @@
+No,City,AQI,Qualitative name
+1,Seattle,1,Very low
+2,Chicago,1,Very low
+3,Toronto,1,Very low
+4,Boston,1,Very low
+5,New York,1,Very low
+6,London,1,Very low
+7,Paris,1,Very low
+8,Brasilia,1,Very low
+9,San Francisco,2,Low
+10,Austin,2,Low
+11,Miami,2,Low
+12,Barcelona,2,Low
+13,Milan,2,Low
+14,Melbourne,2,Low
+15,Sydney,2,Low
+16,Las Vegas,3,Medium
+17,Buenos Aires,3,Medium
+18,Tokyo,4,High
+19,Dubai,5,Very high
+20,Singapore,5,Very high
+21,Beijing,5,Very high
+22,Mexico City,5,Very high
