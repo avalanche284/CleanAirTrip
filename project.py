@@ -6,7 +6,7 @@ import json
 from fpdf import FPDF
 from datetime import datetime
 
-API_KEY = "cbe5fb89b57548f75578bfde1a572369"
+API_KEY = "XXX"
 # get air pollution url
 BASE_URL = "http://api.openweathermap.org/data/2.5/air_pollution?"
 # geocoding url
